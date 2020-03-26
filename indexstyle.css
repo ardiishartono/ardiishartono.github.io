@@ -1,0 +1,57 @@
+.kepala{
+    background-color: silver;
+    overflow: hidden;
+}
+
+body{
+background-color: silver;
+}
+
+.name{
+    font-size: 60px;
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+}
+
+.h{
+    text-decoration: none;
+    color: black;
+    float: right;
+    margin-left: 70px;
+}
+
+.foto{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 100px;
+    margin-left: 60px;
+}
+
+.parag{
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    font-size: 20px;
+}
+
+.bawah{
+    margin-top: -50px;
+    margin-left: 60px;
+}
+
+.lo{
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.no{
+    margin-left: 475px;
+    font-size: 50px;
+}
+
+.pendidik{
+    margin-left: 100px;
+}
